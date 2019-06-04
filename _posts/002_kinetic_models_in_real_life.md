@@ -103,7 +103,7 @@ end
 plot_(people)
 savefig(".\\002_kinetic_models_in_real_life_02.svg")
 ```
-![dots and squares](/_img/002_kinetic_models_in_real_life/002_kinetic_models_in_real_life_02.svg)
+![dots and squares evolved](/_img/002_kinetic_models_in_real_life/002_kinetic_models_in_real_life_02.svg)
 
 
 # A brief disquisition on the underlying math
